@@ -23,7 +23,7 @@ Integracja dla Home Assistant umożliwiająca śledzenie aktualnych cen energii 
 ### Metoda 1: Via HACS
 1. W HACS przejdź do `Integracje`
 2. Kliknij `Dodaj repozytorium`
-3. Wpisz URL: `https://github.com/twoj_nick/pstryk-homeassistant`
+3. Wpisz URL: `https://github.com/balgerion/ha_Pstryk`
 4. Wybierz kategorię: `Integration`
 5. Zainstaluj i zrestartuj Home Assistant
 
@@ -41,13 +41,13 @@ logo.png (opcjonalnie)
 ## Konfiguracja
 1. Przejdź do `Ustawienia` → `Urządzenia i usługi`
 2. Kliknij `Dodaj integrację`
-3. Wyszukaj "Psrryk Energy"
+3. Wyszukaj "Pstryk Energy"
 4. Wprowadź dane:
 - **Klucz API**: Twój klucz z platformy Pstryk
 - **Liczba najlepszych cen kupna**: (domyślnie 5)
 - **Liczba najlepszych cen sprzedaży**: (domyślnie 5)
 
-## Scrnshoty
+## Screenshoty
 
 ![{5787179E-9AE8-415F-9D93-2884EF544768}](https://github.com/user-attachments/assets/3fdea007-8c43-40a0-a188-455dca9b805a)
 ![{34821286-F16C-496F-B87A-D2B534190B42}](https://github.com/user-attachments/assets/9fe65b19-dd5b-4d4f-bf0e-6980e41fb1f0)
